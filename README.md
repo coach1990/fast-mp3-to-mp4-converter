@@ -1,7 +1,7 @@
 # Fast MP3 to MP4 Converter
 
 ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: GNU](https://img.shields.io/badge/License-GNU-yellow.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 
 A blazing-fast Python application with a graphical user interface (GUI) to efficiently convert multiple MP3 files to MP4 format (with a black screen) using multi-processing.
